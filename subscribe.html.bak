@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<title>SUBSCRIBE</title>
+<body>
+<div id="navbar">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="New Testament.html">New Testament</a></li>
+<li><a href="Old Testament.html">Old Testament</a></li>
+<li><a class="current" href="subscribe.html">Subscribe</a></li>
+</ul>
+</div>
+<div class ="main">
+<h4>THANK YOU FOR SUBSCRIBING!</h4>
+<P>Please feel free to send us messages and invite your friends and fmily to subscribe too
+</P>
+<P>STAY BLESSED</P>
+</div>
+
+
+</body>
+
+
+
+
+
+</html>
